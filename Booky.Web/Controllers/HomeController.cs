@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using Booky.Web.Models;
+using Booky.Web.Core.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Booky.Web.Controllers
